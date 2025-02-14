@@ -45,5 +45,8 @@ To be developed...
 
 ## 📝 License
 
+GNU Affero General Public License (AGPL)
+
+## Author
+
 Copyright © 2024 [Alan Ionita](https://github.com/alanionita).<br />
-This project is MIT licensed.
